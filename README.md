@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 📫 How to reach me **sahiljadav1507@gmail.com , sahiljadav1507@outlook.com**
+- <i style="font-size:24px" class="fa">&#xf0e0;</i> **sahiljadav1507@gmail.com , sahiljadav1507@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
